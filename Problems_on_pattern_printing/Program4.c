@@ -1,4 +1,5 @@
-
+//input : 5
+//Output : 1       *       3       *       5  
 
 #include<stdio.h>
 

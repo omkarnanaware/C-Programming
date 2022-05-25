@@ -1,3 +1,15 @@
+/*
+Enter no of Rows:4
+Enter no of Rows:4
+*       *       *       *
+*       *               *
+*               *       *
+*       *       *       *
+
+
+*/
+
+
 #include<stdio.h>
 
 void Display(int iRow, int iCol)
